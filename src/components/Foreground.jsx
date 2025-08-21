@@ -12,7 +12,7 @@ const Foreground = () => {
         filesize:".9mb",close:true,tag:{isOpen:true,tagTitle:"Download Now",tagColor:"green"},
         },
         {desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, quos!",
-        filesize:".9mb",close:true,tag:{isOpen:true,tagTitle:"Download Now",tagColor:"blue"},
+        filesize:".9mb",close:true,tag:{isOpen:true,tagTitle:"Upload",tagColor:"blue"},
         },
         {desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, quos!",
         filesize:".9mb",close:true,tag:{isOpen:true,tagTitle:"Download Now",tagColor:"green"},
